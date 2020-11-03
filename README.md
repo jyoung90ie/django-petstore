@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/jyoung90ie/django-ecommerce.svg?branch=master)](https://travis-ci.org/jyoung90ie/django-ecommerce)
 [![codecov](https://codecov.io/gh/jyoung90ie/django-ecommerce/branch/master/graph/badge.svg)](https://codecov.io/gh/jyoung90ie/django-ecommerce)
 
-This is a project for the final milestone project at [Code Institute](https://codeinstitute.net/) to demonstrate my learning and understanding throughout the course. I chose to develop an ecommerce shopping website as it is a complex and flexible application which challenged my understanding of the technologies involved. Given the sensitivity involved in handling customer details I had to approach development from a security conscious perspective.
+I created this for my final project for CS50x and [Code Institute](https://codeinstitute.net/) to demonstrate my learning and understanding throughout the course. I chose to develop an ecommerce shopping website as it is a complex and flexible application which challenged my understanding of the technologies involved. Given the sensitivity involved in handling customer details I had to approach development from a security conscious perspective.
 
 Overall I believe I produced an application that is very adaptable and can be repurposed for many ecommerce applications, including subscriptions and transactional services. There are a number of features which I would have liked to include for submission of my milestone project, however, due to time constraints these were not feasible at this point-in-time.
 
